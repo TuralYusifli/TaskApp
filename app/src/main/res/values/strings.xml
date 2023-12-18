@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample App</string>
+    <string name="toolbarTitle">People</string>
+    <string name="search_button">Axtar</string>
+</resources>
